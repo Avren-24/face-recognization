@@ -18,10 +18,7 @@
 - Introductory MicroPython and K210 vision workflows
 - Hardware/software integration and demonstration preparation
 
-## Education
-
-[Add institution, programme and expected graduation date]
-
 ## Contact
 
 GitHub: https://github.com/Avren-24
+
